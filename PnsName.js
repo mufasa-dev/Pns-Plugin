@@ -399,7 +399,7 @@
 		//Sujestão
 		if(sujestao){
 			this.drawIcon(botao2, 155, 102);	
-			this.drawText("Sujestão", 195, 100, 300, 'left');
+			this.drawText("Sugestão", 195, 100, 300, 'left');
 			this.changeTextColor('white');
 		}		
 	};
