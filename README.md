@@ -9,9 +9,11 @@ O plugin modifica a entrada de nomes dos personagens possibilitando o uso do tec
 ## Imagens
 
 Dando nome a um actor
+
 ![Nome ator](https://i.ibb.co/QXBgnc0/pns-Name-1.png)
 
 Respondendo a uma pergunta
+
 ![Respondendo pergunta](https://i.ibb.co/2WywXm9/pns-Name-2.png)
 
 ## Perguntas frequentes
