@@ -1,7 +1,7 @@
 ## Sobre o plugin
-Basicamente é um plugin que desenvolvi para um jogo que estou trabalhando a alguns anos chamado "Palavras no Silêncio" e se Deus quiser até o final desse ano estarei postando ele aqui.
+Basicamente é um plugin que desenvolvi para um jogo que estou trabalhando a alguns anos chamado "Palavras no Silêncio".
 É um plugin bem simples na verdade. Mas aceito sugestões.
-Criei uma demozinha de alguns usos para ele baseado no meu projeto. Quem tiver um tempinho livre da uma olhada aí
+Criei uma demo de alguns usos para ele baseado no meu projeto. Quem tiver um tempinho livre da uma olhada aí.
 
 ## Pra que serve?
 O plugin modifica a entrada de nomes dos personagens possibilitando o uso do teclado de forma mais simples e dando aos jogadores indecisos que não sabem que nome colocar em seu herói a possibilidade também de utilizar um dos nomes sugeridos pelo desenvolvedor.
